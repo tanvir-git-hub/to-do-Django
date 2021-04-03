@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(248, 233, 233);
+}
+#title-logo{
+    color: green;
+}
+.my-to-do-list{
+    margin-top: 20px;
+}
+#signupModal :hover{
+    color: white;
+}
